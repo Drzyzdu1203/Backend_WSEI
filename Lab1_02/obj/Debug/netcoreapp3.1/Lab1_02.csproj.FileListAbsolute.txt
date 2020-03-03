@@ -1,0 +1,11 @@
+D:\Repozytoria\Backend_WSEI\Lab1_02\bin\Debug\netcoreapp3.1\Lab1_02.exe
+D:\Repozytoria\Backend_WSEI\Lab1_02\bin\Debug\netcoreapp3.1\Lab1_02.deps.json
+D:\Repozytoria\Backend_WSEI\Lab1_02\bin\Debug\netcoreapp3.1\Lab1_02.runtimeconfig.json
+D:\Repozytoria\Backend_WSEI\Lab1_02\bin\Debug\netcoreapp3.1\Lab1_02.runtimeconfig.dev.json
+D:\Repozytoria\Backend_WSEI\Lab1_02\bin\Debug\netcoreapp3.1\Lab1_02.dll
+D:\Repozytoria\Backend_WSEI\Lab1_02\bin\Debug\netcoreapp3.1\Lab1_02.pdb
+D:\Repozytoria\Backend_WSEI\Lab1_02\obj\Debug\netcoreapp3.1\Lab1_02.csprojAssemblyReference.cache
+D:\Repozytoria\Backend_WSEI\Lab1_02\obj\Debug\netcoreapp3.1\Lab1_02.AssemblyInfoInputs.cache
+D:\Repozytoria\Backend_WSEI\Lab1_02\obj\Debug\netcoreapp3.1\Lab1_02.AssemblyInfo.cs
+D:\Repozytoria\Backend_WSEI\Lab1_02\obj\Debug\netcoreapp3.1\Lab1_02.dll
+D:\Repozytoria\Backend_WSEI\Lab1_02\obj\Debug\netcoreapp3.1\Lab1_02.pdb
