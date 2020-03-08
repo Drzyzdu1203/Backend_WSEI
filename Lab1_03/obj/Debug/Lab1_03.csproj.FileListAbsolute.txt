@@ -1,0 +1,6 @@
+D:\Repozytoria\Backend_WSEI\Lab1_03\bin\Debug\Lab1_03.exe.config
+D:\Repozytoria\Backend_WSEI\Lab1_03\bin\Debug\Lab1_03.exe
+D:\Repozytoria\Backend_WSEI\Lab1_03\bin\Debug\Lab1_03.pdb
+D:\Repozytoria\Backend_WSEI\Lab1_03\obj\Debug\Lab1_03.csprojAssemblyReference.cache
+D:\Repozytoria\Backend_WSEI\Lab1_03\obj\Debug\Lab1_03.exe
+D:\Repozytoria\Backend_WSEI\Lab1_03\obj\Debug\Lab1_03.pdb
